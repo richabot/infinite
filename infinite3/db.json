@@ -1,0 +1,262 @@
+
+{
+  "breeds": [
+    {
+      "id": 0,
+      "name": "Frieda",
+      "picture": "https://cdn2.thedogapi.com/images/BJa4kxc4X.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Lisco, Alabama"
+    },
+    {
+      "id": 1,
+      "name": "Gina",
+      "picture": "https://cdn2.thedogapi.com/images/1-7cgoZSh.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Tooleville, West Virginia"
+    },
+    {
+      "id": 2,
+      "name": "Collins",
+      "picture": "https://cdn2.thedogapi.com/images/rkiByec47.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Freeburn, Idaho"
+    },
+    {
+      "id": 3,
+      "name": "Melissa",
+      "picture": "https://cdn2.thedogapi.com/images/dW5UucTIW.jpg",
+      "age": 2,
+      "breed": "Boxer",
+      "location": "Camas, Pennsylvania"
+    },
+    {
+      "id": 4,
+      "name": "Jeanine",
+      "picture": "https://cdn2.thedogapi.com/images/33mJ-V3RX.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Gerber, South Dakota"
+    },
+    {
+      "id": 5,
+      "name": "Elvia",
+      "picture": "https://cdn2.thedogapi.com/images/-HgpNnGXl.jpg",
+      "age": 3,
+      "breed": "French Bulldog",
+      "location": "Innsbrook, Illinois"
+    },
+    {
+      "id": 6,
+      "name": "Latisha",
+      "picture": "https://cdn2.thedogapi.com/images/S14n1x9NQ.jpg",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "location": "Soudan, Louisiana"
+    },
+    {
+      "id": 7,
+      "name": "Coleman",
+      "picture": "https://cdn2.thedogapi.com/images/_gn8GLrE6.jpg",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "location": "Jacksonwald, Palau"
+    },
+    {
+      "id": 8,
+      "name": "Nichole",
+      "picture": "https://cdn2.thedogapi.com/images/SkmRJl9VQ.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Honolulu, Hawaii"
+    },
+    {
+      "id": 9,
+      "name": "Fran",
+      "picture": "https://cdn2.thedogapi.com/images/HkNkxlqEX.jpg",
+      "age": 3,
+      "breed": "Boxer",
+      "location": "Matheny, Utah"
+    },
+    {
+      "id": 10,
+      "name": "Leonor",
+      "picture": "https://cdn2.thedogapi.com/images/IBkYVm4v1.jpg",
+      "age": 2,
+      "breed": "Boxer",
+      "location": "Tyhee, Indiana"
+    },
+    {
+      "id": 11,
+      "name": "Dean",
+      "picture": "https://cdn2.thedogapi.com/images/r1Ylge5Vm.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Windsor, Montana"
+    },
+    {
+      "id": 12,
+      "name": "Stevenson",
+      "picture": "https://cdn2.thedogapi.com/images/SkvZgx94m.jpg",
+      "age": 3,
+      "breed": "French Bulldog",
+      "location": "Kingstowne, Nevada"
+    },
+    {
+      "id": 13,
+      "name": "Kristina",
+      "picture": "https://cdn2.thedogapi.com/images/Syd4xxqEm.jpg",
+      "age": 4,
+      "breed": "Golden Retriever",
+      "location": "Sultana, Massachusetts"
+    },
+    {
+      "id": 14,
+      "name": "Ethel",
+      "picture": "https://cdn2.thedogapi.com/images/A09F4c1qP.jpg",
+      "age": 2,
+      "breed": "Golden Retriever",
+      "location": "Broadlands, Oregon"
+    },
+    {
+      "id": 15,
+      "name": "Terry",
+      "picture": "https://cdn2.thedogapi.com/images/ByK8gx947.jpg",
+      "age": 2,
+      "breed": "Golden Retriever",
+      "location": "Dawn, Wisconsin"
+    },{
+      "id": 16,
+      "name": "Frieda",
+      "picture": "https://cdn2.thedogapi.com/images/r1f_ll5VX.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Lisco, Alabama"
+    },
+    {
+      "id": 17,
+      "name": "Gina",
+      "picture": "https://cdn2.thedogapi.com/images/HJAFgxcNQ.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Tooleville, West Virginia"
+    },
+    {
+      "id": 18,
+      "name": "Collins",
+      "picture": "https://cdn2.thedogapi.com/images/Skdcgx9VX.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Freeburn, Idaho"
+    },
+    {
+      "id": 19,
+      "name": "Melissa",
+      "picture": "https://cdn2.thedogapi.com/images/rJxieg9VQ.jpg",
+      "age": 2,
+      "breed": "Boxer",
+      "location": "Camas, Pennsylvania"
+    },
+    {
+      "id": 20,
+      "name": "Jeanine",
+      "picture": "https://cdn2.thedogapi.com/images/BJa4kxc4X.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Gerber, South Dakota"
+    },
+    {
+      "id": 21,
+      "name": "Elvia",
+      "picture": "https://cdn2.thedogapi.com/images/HJOpge9Em.jpg",
+      "age": 3,
+      "breed": "French Bulldog",
+      "location": "Innsbrook, Illinois"
+    },
+    {
+      "id": 22,
+      "name": "Latisha",
+      "picture": "https://cdn2.thedogapi.com/images/Byd0xl5VX.jpg",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "location": "Soudan, Louisiana"
+    },
+    {
+      "id": 23,
+      "name": "Coleman",
+      "picture": "https://cdn2.thedogapi.com/images/ryHJZlcNX.jpg",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "location": "Jacksonwald, Palau"
+    },
+    {
+      "id": 24,
+      "name": "Nichole",
+      "picture": "https://cdn2.thedogapi.com/images/S13yZg5VQ.jpg",
+      "age": 2,
+      "breed": "French Bulldog",
+      "location": "Honolulu, Hawaii"
+    },
+    {
+      "id": 25,
+      "name": "Fran",
+      "picture": "https://cdn2.thedogapi.com/images/HJWZZxc4X.jpg",
+      "age": 3,
+      "breed": "Boxer",
+      "location": "Matheny, Utah"
+    },
+    {
+      "id": 26,
+      "name": "Leonor",
+      "picture": "https://cdn2.thedogapi.com/images/VSraIEQGd.jpg",
+      "age": 2,
+      "breed": "Boxer",
+      "location": "Tyhee, Indiana"
+    },
+    {
+      "id": 27,
+      "name": "Dean",
+      "picture": "https://cdn2.thedogapi.com/images/Sk7Qbg9E7.jpg",
+      "age": 3,
+      "breed": "Scottish Terrier",
+      "location": "Windsor, Montana"
+    },
+    {
+      "id":28,
+      "name": "Stevenson",
+      "picture": "https://cdn2.thedogapi.com/images/B1pDZx9Nm.jpg",
+      "age": 3,
+      "breed": "French Bulldog",
+      "location": "Kingstowne, Nevada"
+    },
+    {
+      "id": 29,
+      "name": "Kristina",
+      "picture": "https://cdn2.thedogapi.com/images/B1ruWl94Q.jpg",
+      "age": 4,
+      "breed": "Golden Retriever",
+      "location": "Sultana, Massachusetts"
+    },
+    {
+      "id": 30,
+      "name": "Ethel",
+      "picture": "https://cdn2.thedogapi.com/images/ry8KWgqEQ.jpg",
+      "age": 2,
+      "breed": "Golden Retriever",
+      "location": "Broadlands, Oregon"
+    },
+    {
+      "id": 31,
+      "name": "Terry",
+      "picture": "https://cdn2.thedogapi.com/images/1lFmrzECl.jpg",
+      "age": 2,
+      "breed": "Golden Retriever",
+      "location": "Dawn, Wisconsin"
+    }
+    
+  ]
+ 
+}
